@@ -61,7 +61,7 @@ Each subfolder should contain its corresponding images.
 4. How to Run
 From the project root:
 - (Optional) Create and activate a virtual environment.
-- 
+
 - Windows (PowerShell):
 python -m venv .venv
 .\.venv\Scripts\activate.bat
